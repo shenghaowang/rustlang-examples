@@ -11,6 +11,9 @@ The web version of the book is available [here](https://doc.rust-lang.org/book/)
 ### 2. Programming a Guessing Game
 - [guessing_game](guessing_game/src/main.rs)
 
+### 3. Common Programming Concepts
+- [variables](variables/src/main.rs)
+
 ## Add the PATH variable (MacOS)
 1. After installing rust, add the following command to .zshrc
 ```
