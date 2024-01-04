@@ -1,5 +1,7 @@
 # Examples from The Rust Programming Language book
 
+The web version of the book is available [here](https://doc.rust-lang.org/book/).
+
 ## Content
 
 ### 1. Getting Started
